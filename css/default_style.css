@@ -152,3 +152,8 @@ footer {
 footer a {
     color: white;
 }
+#resetMessage {
+    visibility: hidden;
+    color: red;
+    font-weight: bold;
+}
